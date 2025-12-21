@@ -76,6 +76,12 @@ This script is distributed as plain Batch source code.
 To ensure the file has not been tampered with, verify its SHA-256 checksum:
 C3D59BD09F8CE53033654576D6CB8C8A7A0FE5AA8B521064310FB9CBF80BA225
 
+On Windows, run:
+certutil -hashfile APYTDLP65beta.cmd SHA256
+
+PowerShell alternative:
+Get-FileHash .\APYTDLP65beta.cmd -Algorithm SHA256
+
 If the checksum does not match, do not run the file and download the latest version directly from this repository.
 
 ---
