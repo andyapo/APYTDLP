@@ -44,7 +44,7 @@ All required third-party tools in the newest versions are automatically download
 1. Download the latest release from:
    **https://github.com/andyapo/APYTDLP/releases/download/v6.5-beta/APYTDLP65beta.cmd**
 2. Place the script into any directory
-3. Run it from Command Prompt
+3. Double click the file **APYTDLP65beta.cmd** or run it from Command Prompt
 4. First run may take longer due to initialization and tool checks
 
 ---
