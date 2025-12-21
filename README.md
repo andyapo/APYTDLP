@@ -29,6 +29,7 @@ The project is considered **beta** and actively developed.
 
 - Microsoft Windows 8 or newer
 - PowerShell (optional)
+  
 Third-party tools:
 - `yt-dlp`
 - `7zr`
@@ -52,9 +53,9 @@ All required third-party tools in the newest versions are automatically download
 - This release is intended for **Windows 8.1 and newer**
 - Configuration and user data are stored per-user in `%APPDATA%`
 - What started as a small, simple script two and a half years ago gradually evolved over time.
-- As more features were added, I decided to share the project in its current state.
-- This is a hobby project, so it may contain bugs or lack certain features.
-- Constructive feedback and suggestions for improvement are very welcome.
+  As more features were added, I decided to share the project in its current state.
+  This is a hobby project, so it may contain bugs or lack certain features.
+  Constructive feedback and suggestions for improvement are very welcome.
 
 
 ---
@@ -75,7 +76,7 @@ This script is distributed as plain Batch source code.
 To ensure the file has not been tampered with, verify its SHA-256 checksum:
 C3D59BD09F8CE53033654576D6CB8C8A7A0FE5AA8B521064310FB9CBF80BA225
 
-Or download newest version from this Repository.
+If the checksum does not match, do not run the file and download the latest version directly from this repository.
 
 ---
 
