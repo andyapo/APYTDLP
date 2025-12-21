@@ -86,12 +86,12 @@ C3D59BD09F8CE53033654576D6CB8C8A7A0FE5AA8B521064310FB9CBF80BA225<br>
 To verify SHA-256, please run:<br>
 **Command Prompt**:<br>
 ```bat
-certutil -hashfile APYTDLP65beta.cmd SHA256
+certutil -hashfile APYTDLP.cmd SHA256
 ```
 
 **PowerShell**:<br>
 ```powershell
-Get-FileHash .\APYTDLP65beta.cmd -Algorithm SHA256
+Get-FileHash .\APYTDLP.cmd -Algorithm SHA256
 ```
 
 ⚠️ If the checksum does not match, do not run the file and download the latest version directly from this repository.
