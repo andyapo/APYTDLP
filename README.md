@@ -8,7 +8,7 @@ APYTDLP is a highly configurable, interactive Batch-based frontend for
 keyboard-driven workflows and full control over download behavior.
 
 This is the first public release of APYTDLP.  
-The project is considered **beta** and actively developed.
+The project is currently in **beta** and is actively developed.
 
 ---
 
@@ -44,8 +44,8 @@ All required third-party tools in the newest versions are automatically download
 1. Download the latest release from:
    **https://github.com/andyapo/APYTDLP/releases/download/v6.5-beta/APYTDLP65beta.cmd**
 2. Place the script into any directory
-3. Double click the file **APYTDLP65beta.cmd** or run it from Command Prompt
-4. First run may take longer due to initialization and tool checks
+3. Double click the file **APYTDLP65beta.cmd** or run it from Command Prompt. If Windows SmartScreen message appears, choose “More info” → “Run anyway”
+4. First run may take longer due to 3rd party tool checks and downloads
 
 ---
 
@@ -74,13 +74,15 @@ This script is distributed as plain Batch source code.
 ## Integrity Check
 
 To ensure the file has not been tampered with, verify its SHA-256 checksum:
-C3D59BD09F8CE53033654576D6CB8C8A7A0FE5AA8B521064310FB9CBF80BA225
+**C3D59BD09F8CE53033654576D6CB8C8A7A0FE5AA8B521064310FB9CBF80BA225**
 
 On Windows, run:
-certutil -hashfile APYTDLP65beta.cmd SHA256
+
+**certutil -hashfile APYTDLP65beta.cmd SHA256**
 
 PowerShell alternative:
-Get-FileHash .\APYTDLP65beta.cmd -Algorithm SHA256
+
+**Get-FileHash .\APYTDLP65beta.cmd -Algorithm SHA256**
 
 If the checksum does not match, do not run the file and download the latest version directly from this repository.
 
