@@ -33,6 +33,7 @@ Third-party tools:
 - `yt-dlp`
 - `7zr`
 - `ffmpeg`
+
 All required third-party tools in the newest versions are automatically downloaded by the script.
 
 ---
