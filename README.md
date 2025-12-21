@@ -3,7 +3,7 @@
 Adrenaline Powered YT-DLP Batch Frontend for Windows
 ----------------------------------------------------
 
-APYTDLP is a highly configurable, interactive Batch-based frontend for
+APYTDLP is a highly configurable, interactive Batch-based frontend for 
 [yt-dlp](https://github.com/yt-dlp/yt-dlp), focused on power users who prefer
 keyboard-driven workflows and full control over download behavior.
 
@@ -64,13 +64,15 @@ All required third-party tools in the newest versions are automatically download
 
 ---
 
-## Security Notice ‼️
+## Security Notice
 
-This script is distributed as plain Batch source code.
+APYTDLP is distributed as plain Batch source code.<br>
+It's an independent project and is not affiliated with or endorsed by the yt-dlp authors.
 
-- You are encouraged to review it before running.
-- ✅ Only releases from the official repository should be trusted.
-- 🚫 Modified versions are **not supported** by the author.
+- You are encouraged to **review the script** before running.
+- Only releases from the **official repository** should be trusted.
+- Modified versions are **not supported** by the author.
+- The author is **not responsible** for any issues caused by unofficial versions.
 - This script is unsigned; for code-signing verification see the repository instructions.
 
 ---
