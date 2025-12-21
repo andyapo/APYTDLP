@@ -51,7 +51,11 @@ All required third-party tools in the newest versions are automatically download
 ## Notes
 - This release is intended for **Windows 8.1 and newer**
 - Configuration and user data are stored per-user in `%APPDATA%`
-- Feedback, bug reports and suggestions are welcome
+- What started as a small, simple script two and a half years ago gradually evolved over time.
+- As more features were added, I decided to share the project in its current state.
+- This is a hobby project, so it may contain bugs or lack certain features.
+- Constructive feedback and suggestions for improvement are very welcome.
+
 
 ---
 
