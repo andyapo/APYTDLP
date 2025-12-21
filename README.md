@@ -16,20 +16,21 @@ This is the first public release of APYTDLP.
 
 - Video, audio, and batch downloads
 - Simultaneous download windows management
+- Youtube Search support 
 - YT-DLP configuration via menus
 - Script configuration and theming
 - Persistent configuration and backups
 - Logging and history tracking
 - Optional PowerShell 5 / PowerShell 7 integration
 - Zero external GUI dependencies
-- Youtube Search support 
 
 ---
 
 ## Requirements
 
-- 🟢 Microsoft Windows 8 or newer
-- 🟡 PowerShell (optional)
+- ![Static Badge](https://img.shields.io/badge/Required-lightgreen?style=flat-square) Microsoft Windows 8 or newer
+- ![Static Badge](https://img.shields.io/badge/Required-lightgreen?style=flat-square) Internet connection
+- ![Static Badge](https://img.shields.io/badge/Optional-lightblue?style=flat-square) PowerShell (for advanced features)
 
 ---
 
@@ -44,7 +45,7 @@ All required third-party tools in the newest versions are automatically download
 
 ## Installation
 
-1. [![Static Badge](https://img.shields.io/badge/Download-green)](https://github.com/andyapo/APYTDLP/releases/download/v6.5-beta/APYTDLP.cmd) the latest release from:<br>
+1. [![Static Badge](https://img.shields.io/badge/Download-green?style=plastic)](https://github.com/andyapo/APYTDLP/releases/download/v6.5-beta/APYTDLP.cmd) the latest release from:<br>
 **https://github.com/andyapo/APYTDLP/releases/download/v6.5-beta/APYTDLP.cmd**
 2. Place the script into any directory
 3. Double click the file **APYTDLP.cmd** or run it from Command Prompt. If Windows SmartScreen message appears, choose “More info” → “Run anyway”
