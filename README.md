@@ -74,6 +74,7 @@ This script is distributed as plain Batch source code.
 
 To ensure the file has not been tampered with, verify its SHA-256 checksum:
 C3D59BD09F8CE53033654576D6CB8C8A7A0FE5AA8B521064310FB9CBF80BA225
+
 Or download newest version from here.
 
 ---
