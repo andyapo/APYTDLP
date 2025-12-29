@@ -8,7 +8,7 @@ APYTDLP is a highly configurable, interactive Batch-based frontend for
 keyboard-driven workflows and full control over download behavior.
 
 This is the first public release of APYTDLP.  
-🔥The project is currently in **beta** and is actively developed.
+🔥The project is actively developed.
 
 ---
 
@@ -81,9 +81,9 @@ It's an independent project and is not affiliated with or endorsed by the yt-dlp
 
 ☝️To ensure the file has not been tampered with, verify its size and SHA-265 cheksum.<br>
 **Size:**<br>
-445 458 bytes<br>
+451 198 bytes<br>
 **SHA-256**:<br>
-C3D59BD09F8CE53033654576D6CB8C8A7A0FE5AA8B521064310FB9CBF80BA225<br>
+3d0902806448511648566f9e1abcf7ca9849e1bc412c24025e3b6982d99bb0de<br>
 
 To verify SHA-256, please run:<br>
 **Command Prompt**:<br>
