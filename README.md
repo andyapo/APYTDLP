@@ -45,8 +45,8 @@ All required third-party tools in the newest versions are automatically download
 
 ## Installation
 
-1. [![Static Badge](https://img.shields.io/badge/Download-green?style=plastic)](https://github.com/andyapo/APYTDLP/releases/download/v6.5-beta/APYTDLP.cmd) the latest release from:<br>
-**https://github.com/andyapo/APYTDLP/releases/download/v6.5-beta/APYTDLP.cmd**
+1. [![Static Badge](https://img.shields.io/badge/Download-green?style=plastic)](https://github.com/andyapo/APYTDLP/releases/latest/download/APYTDLP.cmd) the latest release from:<br>
+**https://github.com/andyapo/APYTDLP/releases/latest/download/APYTDLP.cmd**
 2. Place the script into any directory
 3. Double click the file **APYTDLP.cmd** or run it from Command Prompt. If Windows SmartScreen message appears, choose “More info” → “Run anyway”
 4. First run may take longer due to 3rd party tool checks and downloads
