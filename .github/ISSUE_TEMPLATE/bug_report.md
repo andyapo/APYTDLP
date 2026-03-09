@@ -23,8 +23,9 @@ What happened instead?
 ### Environment
 - Windows version:
 - APYTDLP version:
-- Console type (CMD / Windows Terminal):
+- Console type (Modern / Legacy):
 - yt-dlp version:
+- FFmpeg version:
 
 ### Additional information
 Logs, screenshots or other details.
