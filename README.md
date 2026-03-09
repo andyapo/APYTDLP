@@ -1,36 +1,112 @@
 # APYTDLP
 
-Adrenaline Powered YT-DLP Batch Frontend for Windows
-----------------------------------------------------
+![Windows 10+](https://img.shields.io/badge/Windows-10%2B-blue)
+![Release](https://img.shields.io/github/v/release/andyapo/APYTDLP)
+![License](https://img.shields.io/github/license/andyapo/APYTDLP)
+![Downloads](https://img.shields.io/github/downloads/andyapo/APYTDLP/total)
+![Stars](https://img.shields.io/github/stars/andyapo/APYTDLP)
 
-APYTDLP is a highly configurable, interactive Batch-based frontend for 
-[yt-dlp](https://github.com/yt-dlp/yt-dlp), focused on power users who prefer
-keyboard-driven workflows and full control over download behavior.
 
-This is the first public release of APYTDLP.  
-🔥The project is actively developed.
+**Interactive yt-dlp & FFmpeg terminal frontend for Windows**
+
+<p align="center">
+<img src="docs/images/main-menu.png" width="750" alt="APYTDLP main menu">
+</p>
+
+APYTDLP is a highly configurable, keyboard-driven Batch application that provides
+an interactive terminal interface for:
+
+- **yt-dlp** – downloading videos and audio
+- **FFmpeg** – converting and processing media
+
+The project is designed for power users who prefer **keyboard workflows,
+fine-grained control and transparent configuration** rather than graphical frontends.
+
+🔥 The project is actively developed.
 
 ---
 
 ## Features
 
-- Video, audio, and batch downloads
-- Simultaneous download windows management
-- Youtube Search support 
-- YT-DLP configuration via menus
-- Script configuration and theming
-- Persistent configuration and backups
+### Downloading
+- Video and audio downloads powered by **yt-dlp**
+- Multiple simultaneous download windows
+- Built-in **YouTube search**
+- URL list loading, saving and management
+
+### Converting
+- Video conversion powered by **FFmpeg**
+- Software and hardware encoder support
+- Flexible bitrate / quality configuration
+
+### Environment management
+- Automatic download and update of required tools
+- Self-contained runtime environment
+- Single-instance execution protection
+
+### Customization
+- yt-dlp and FFmpeg configuration via menus
+- Script theming and console customization
+- Persistent configuration with backup system
 - Logging and history tracking
-- Optional PowerShell 5 / PowerShell 7 integration
-- Zero external GUI dependencies
+- Optional PowerShell integration
+
+---
+
+## Screenshots
+
+### YouTube search
+<p align="center">
+<img src="docs/images/yt-search.png" width="650">
+</p>
+
+Built-in search allows browsing YouTube results directly inside the terminal.
+
+---
+
+### Video download
+<p align="center">
+<img src="docs/images/download.png" width="650">
+</p>
+
+Detailed video metadata, format selection and real-time download progress.
+
+---
+
+### Batch downloads
+<p align="center">
+<img src="docs/images/batch.png" width="650">
+</p>
+
+Download multiple URLs at once and optionally store them as reusable URL lists.
+
+---
+
+### Video converter configuration
+<p align="center">
+<img src="docs/images/converter-cfg.png" width="650">
+</p>
+
+Fine-grained control over encoding, bitrate, filters and processing options.
+
+---
+
+### Conversion results
+<p align="center">
+<img src="docs/images/converter.png" width="650">
+</p>
+
+Conversion summary including encoding speed, bitrate and resulting file size.
 
 ---
 
 ## Requirements
 
-- ![Static Badge](https://img.shields.io/badge/Required-lightgreen?style=flat-square) Microsoft Windows 8 or newer
-- ![Static Badge](https://img.shields.io/badge/Required-lightgreen?style=flat-square) Internet connection
-- ![Static Badge](https://img.shields.io/badge/Optional-lightblue?style=flat-square) PowerShell (for advanced features)
+- Windows **10 or newer**
+- Internet connection
+
+Optional:
+- PowerShell (for some advanced features)
 
 ---
 
@@ -38,6 +114,7 @@ This is the first public release of APYTDLP.
 - [![Static Badge](https://img.shields.io/badge/YT--DLP-blue)](https://github.com/yt-dlp/yt-dlp)<br>
 - [![Static Badge](https://img.shields.io/badge/7ZR-blue)](https://www.7-zip.org)<br>
 - [![Static Badge](https://img.shields.io/badge/FFMPEG-blue)](https://www.ffmpeg.org)<br>
+- [![Static Badge](https://img.shields.io/badge/deno-blue)](https://github.com/denoland/deno)<br>
 
 All required third-party tools in the newest versions are automatically downloaded by the script.
 
@@ -54,7 +131,7 @@ All required third-party tools in the newest versions are automatically download
 ---
 
 ## Notes
-- This release is intended for **Windows 8.1 and newer**
+- This release is intended for **Windows 10 and newer**
 - Configuration and user data are stored per-user in `%APPDATA%`
 - What started as a small, simple script two and a half years ago gradually evolved over time.
   As more features were added, I decided to share the project in its current state.
@@ -79,11 +156,11 @@ It's an independent project and is not affiliated with or endorsed by the yt-dlp
 
 ### Integrity Check
 
-☝️To ensure the file has not been tampered with, verify its size and SHA-265 cheksum.<br>
+☝️To ensure the file has not been tampered with, verify its size and SHA-256 cheksum.<br>
 **Size:**<br>
-451 198 bytes<br>
+620 300 bytes<br>
 **SHA-256**:<br>
-3d0902806448511648566f9e1abcf7ca9849e1bc412c24025e3b6982d99bb0de<br>
+03131beeeca87347bdfa84caf66bac11a3628ff156e8acca5886ae4752467a52<br>
 
 To verify SHA-256, please run:<br>
 **Command Prompt**:<br>
@@ -103,4 +180,4 @@ Get-FileHash .\APYTDLP.cmd -Algorithm SHA256
 ## License
 
 MIT License
-© 2023–2025 andyapo
+© 2023–2026 andyapo
