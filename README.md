@@ -156,7 +156,7 @@ It's an independent project and is not affiliated with or endorsed by the yt-dlp
 
 ### Integrity Check
 
-☝️To ensure the file has not been tampered with, verify its size and SHA-256 cheksum.<br>
+☝️To ensure the file has not been tampered with, verify its size and SHA-256 checksum.<br>
 **Size:**<br>
 620 372 bytes<br>
 **SHA-256**:<br>
