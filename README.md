@@ -101,6 +101,15 @@ Conversion summary including encoding speed, bitrate and resulting file size.
 
 ---
 
+### Batch Conversion Pre-scan
+<p align="center">
+<img src="docs/images/converter-prescan.png" width="650">
+</p>
+
+Conversion summary including encoding speed, bitrate and resulting file size.
+
+---
+
 ## Requirements
 
 - Windows **10 or newer**
