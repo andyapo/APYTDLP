@@ -10,7 +10,7 @@
 **Interactive yt-dlp & FFmpeg terminal frontend for Windows**
 
 <p align="center">
-<img src="docs/images/main-menu.png" width="750" alt="APYTDLP main menu">
+<img src="docs/images/main-menu-71.png" width="750" alt="APYTDLP main menu">
 </p>
 
 APYTDLP is a highly configurable, keyboard-driven Batch application that provides
