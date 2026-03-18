@@ -106,7 +106,7 @@ Conversion summary including encoding speed, bitrate and resulting file size.
 <img src="docs/images/converter-prescan.png" width="650">
 </p>
 
-Conversion summary including encoding speed, bitrate and resulting file size.
+Conversion Pre-Scan summary including number of files for batch conversion and total file size.
 
 ---
 
