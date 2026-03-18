@@ -38,7 +38,7 @@ fine-grained control and transparent configuration** rather than graphical front
 - Video conversion powered by **FFmpeg**
 - Software and hardware encoder support
 - Flexible bitrate / quality configuration
-- Batch mode for converting entire folder structure
+- Batch mode for converting all media files in entire folder structure
 
 ### Environment management
 - Automatic download and update of required tools
