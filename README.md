@@ -125,6 +125,8 @@ Optional:
 - [![Static Badge](https://img.shields.io/badge/7ZR-blue)](https://www.7-zip.org)<br>
 - [![Static Badge](https://img.shields.io/badge/FFMPEG-blue)](https://www.ffmpeg.org)<br>
 - [![Static Badge](https://img.shields.io/badge/deno-blue)](https://github.com/denoland/deno)<br>
+- [![Static Badge](https://img.shields.io/badge/Unzip-blue)](https://infozip.sourceforge.net)<br>
+- [![Static Badge](https://img.shields.io/badge/ChromeCookieUnlock-blue)](https://github.com/seproDev/yt-dlp-ChromeCookieUnlock)<br>
 
 All required third-party tools in the newest versions are automatically downloaded by the script.
 
