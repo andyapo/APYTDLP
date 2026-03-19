@@ -20,13 +20,7 @@ APYTDLP is a keyboard-driven Batch frontend for **yt-dlp** and **FFmpeg** used f
 The project is designed for power users who prefer **keyboard workflows,
 fine-grained control and transparent configuration** rather than graphical frontends.
 
----
 🔥 The project is actively maintained.
-
-<br>
-<p align="center">
-<img src="docs/images/main-menu-71.png" width="750" alt="APYTDLP main menu">
-</p>
 
 ---
 
@@ -59,6 +53,15 @@ fine-grained control and transparent configuration** rather than graphical front
 ---
 
 ## Screenshots
+
+### MAIN MENU
+<p align="center">
+<img src="docs/images/main-menu-71.png" width="650" alt="APYTDLP main menu">
+</p>
+
+The main page of the script.
+
+---
 
 ### YouTube search
 <p align="center">
