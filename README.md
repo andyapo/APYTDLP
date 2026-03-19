@@ -9,10 +9,6 @@
 
 **Interactive yt-dlp & FFmpeg terminal frontend for Windows**
 
-<p align="center">
-<img src="docs/images/main-menu-71.png" width="750" alt="APYTDLP main menu">
-</p>
-
 APYTDLP is a highly configurable, keyboard-driven Batch application that provides
 an interactive terminal interface for:
 
@@ -23,6 +19,17 @@ The project is designed for power users who prefer **keyboard workflows,
 fine-grained control and transparent configuration** rather than graphical frontends.
 
 🔥 The project is actively developed.
+
+## 🚀 Quick Start
+
+👉 **Download ready-to-use version:**  
+➡️ https://github.com/andypapo/APYTDLP/releases/latest
+
+No installation needed — just download and run `APYTDLP.cmd`.
+
+<p align="center">
+<img src="docs/images/main-menu-71.png" width="750" alt="APYTDLP main menu">
+</p>
 
 ---
 
