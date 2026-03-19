@@ -1,7 +1,7 @@
 # APYTDLP
 [![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge)](https://github.com/andyapo/APYTDLP/releases/latest/download/APYTDLP.cmd)<br>
 
-> **No installation needed** — just download and run `APYTDLP.cmd`
+> **No installation needed** — just download and run
 
 ![Windows 10+](https://img.shields.io/badge/Windows-10%2B-blue)
 ![Release](https://img.shields.io/github/v/release/andyapo/APYTDLP)
@@ -12,7 +12,7 @@
 
 ## Interactive yt-dlp & FFmpeg terminal frontend for Windows
 
-APYTDLP is a keyboard-driven Batch frontend for **yt-dlp** and **FFmpeg** used for:
+APYTDLP is a keyboard-driven Batch frontend for `yt-dlp` and `FFmpeg` used for:
 
 + **downloading** videos and audio
 + **converting** and processing media
