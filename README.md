@@ -1,4 +1,7 @@
 # APYTDLP
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge)](https://github.com/andyapo/APYTDLP/releases/latest/download/APYTDLP.cmd)<br>
+
+> **No installation needed** — just download and run `APYTDLP.cmd`
 
 ![Windows 10+](https://img.shields.io/badge/Windows-10%2B-blue)
 ![Release](https://img.shields.io/github/v/release/andyapo/APYTDLP)
@@ -7,26 +10,20 @@
 ![Stars](https://img.shields.io/github/stars/andyapo/APYTDLP)
 
 
-**Interactive yt-dlp & FFmpeg terminal frontend for Windows**
+## Interactive yt-dlp & FFmpeg terminal frontend for Windows
 
-APYTDLP is a highly configurable, keyboard-driven Batch application that provides
-an interactive terminal interface for:
+APYTDLP is a keyboard-driven Batch frontend for **yt-dlp** and **FFmpeg** used for:
 
-- **yt-dlp** – downloading videos and audio
-- **FFmpeg** – converting and processing media
++ **downloading** videos and audio
++ **converting** and processing media
 
 The project is designed for power users who prefer **keyboard workflows,
 fine-grained control and transparent configuration** rather than graphical frontends.
 
-🔥 The project is actively developed.
+---
+🔥 The project is actively maintained.
 
-## 🚀 Quick Start
-
-👉 **Download ready-to-use version:**  
-➡️ https://github.com/andypapo/APYTDLP/releases/latest
-
-No installation needed — just download and run `APYTDLP.cmd`.
-
+<br>
 <p align="center">
 <img src="docs/images/main-menu-71.png" width="750" alt="APYTDLP main menu">
 </p>
@@ -141,11 +138,12 @@ All required third-party tools in the newest versions are automatically download
 
 ## Installation
 
-1. [![Static Badge](https://img.shields.io/badge/Download-green?style=plastic)](https://github.com/andyapo/APYTDLP/releases/latest/download/APYTDLP.cmd) the latest release from:<br>
+1. Download the latest release from:<br>
 **https://github.com/andyapo/APYTDLP/releases/latest/download/APYTDLP.cmd**
-2. Place the script into any directory
-3. Double click the file **APYTDLP.cmd** or run it from Command Prompt. If Windows SmartScreen message appears, choose “More info” → “Run anyway”
-4. First run may take longer due to 3rd party tool checks and downloads
+
+3. Place the script into any directory
+4. Double click the file **APYTDLP.cmd** or run it from Command Prompt. If Windows SmartScreen message appears, choose “More info” → “Run anyway”
+5. First run may take longer due to 3rd party tool checks and downloads
 
 ---
 
