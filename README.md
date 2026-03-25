@@ -56,64 +56,37 @@ fine-grained control and transparent configuration** rather than graphical front
 
 ### MAIN MENU and Configuration Screens
 <p align="center">
-<img src="docs/images/main-menu-71.png" width="650" alt="APYTDLP main menu">
+<img src="docs/images/main-menu-72.png" width="450" alt="APYTDLP main menu">
+<img src="docs/images/yt-dlp-cfg-72.png" width="450" alt="APYTDLP main menu">
+<img src="docs/images/yt-dlp2-cfg-72.png" width="450" alt="APYTDLP main menu">
+<img src="docs/images/script-cfg-72.png" width="450" alt="APYTDLP main menu">
 </p>
-
-The main page of the script.
 
 ---
 
-### YouTube search
+### YouTube search and Download
 <p align="center">
-<img src="docs/images/yt-search.png" width="650">
+<img src="docs/images/ytsearch-72.png" width="450">
+<img src="docs/images/download-72.png" width="450">
 </p>
-
-Built-in search allows browsing YouTube results directly inside the terminal.
 
 ---
 
-### Video download
+### Video converter and Configuration Screens
 <p align="center">
-<img src="docs/images/download.png" width="650">
+<img src="docs/images/convert-72.png" width="450">
+<img src="docs/images/convert-cfg-72.png" width="450">
+<img src="docs/images/convert-cfg2-72.png" width="450">
+<img src="docs/images/convert-cfg3-72.png" width="450">
 </p>
-
-Detailed video metadata, format selection and real-time download progress.
 
 ---
 
-### Batch downloads
-<p align="center">
-<img src="docs/images/batch.png" width="650">
-</p>
-
-Download multiple URLs at once and optionally store them as reusable URL lists.
-
----
-
-### Video converter configuration
-<p align="center">
-<img src="docs/images/converter-cfg.png" width="650">
-</p>
-
-Fine-grained control over encoding, bitrate, filters and processing options.
-
----
-
-### Conversion results
-<p align="center">
-<img src="docs/images/converter.png" width="650">
-</p>
-
-Conversion summary including encoding speed, bitrate and resulting file size.
-
----
 
 ### Batch Conversion Pre-scan
 <p align="center">
-<img src="docs/images/converter-prescan.png" width="650">
+<img src="docs/images/prescan-72.png" width="450">
 </p>
-
-Conversion Pre-Scan summary including number of files for batch conversion and total file size.
 
 ---
 
