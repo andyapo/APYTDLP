@@ -54,7 +54,7 @@ fine-grained control and transparent configuration** rather than graphical front
 
 ## Screenshots
 
-### MAIN MENU
+### MAIN MENU and Configuration Screens
 <p align="center">
 <img src="docs/images/main-menu-71.png" width="650" alt="APYTDLP main menu">
 </p>
@@ -178,9 +178,9 @@ It's an independent project and is not affiliated with or endorsed by the yt-dlp
 
 ☝️To ensure the file has not been tampered with, verify its size and SHA-256 checksum.<br>
 **Size:**<br>
-639 939 bytes<br>
+651 065 bytes<br>
 **SHA-256**:<br>
-6dcce1fcd31561fe63849fbfbc23ae88df24a96911385c88a3eb6703db78044e<br>
+7e77a7a5448706b5f7dc3b118bd3fdb1506c2c923dbde6b281ac62fda2c8487b<br>
 
 To verify SHA-256, please run:<br>
 **Command Prompt**:<br>
