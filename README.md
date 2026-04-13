@@ -73,20 +73,20 @@ fine-grained control and transparent configuration** rather than graphical front
 
 ---
 
-### Video converter and Configuration Screens
+### Video Converter & Batch Conversion Pre-Scan
 <p align="center">
-<img src="docs/images/convert-72.png" width="450">
-<img src="docs/images/convert-cfg-72.png" width="450">
-<img src="docs/images/convert-cfg2-72.png" width="450">
-<img src="docs/images/convert-cfg3-72.png" width="450">
+<img src="docs/images/convert-73.png" width="450">
+<img src="docs/images/batch-73.png" width="450">
 </p>
 
 ---
 
-
-### Batch Conversion Pre-scan
+### Video Converter Configuration Screens
 <p align="center">
-<img src="docs/images/prescan-72.png" width="450">
+<img src="docs/images/convert1-73.png" width="450">
+<img src="docs/images/convert2-73.png" width="450">
+<img src="docs/images/convert3-73.png" width="450">
+<img src="docs/images/convert4-73.png" width="450">
 </p>
 
 ---
