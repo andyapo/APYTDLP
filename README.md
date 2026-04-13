@@ -36,6 +36,7 @@ fine-grained control and transparent configuration** rather than graphical front
 - Video conversion powered by **FFmpeg**
 - Software and hardware encoder support
 - Flexible bitrate / quality configuration
+- Speed change support
 - Batch mode for converting all media files in entire folder structure
 
 ### Environment management
@@ -151,9 +152,9 @@ It's an independent project and is not affiliated with or endorsed by the yt-dlp
 
 ☝️To ensure the file has not been tampered with, verify its size and SHA-256 checksum.<br>
 **Size:**<br>
-651 065 bytes<br>
+664 847 bytes<br>
 **SHA-256**:<br>
-7e77a7a5448706b5f7dc3b118bd3fdb1506c2c923dbde6b281ac62fda2c8487b<br>
+f5f0997823d68de149ea8ac833f3a1a838b04bb3e2884b6154ccb5b2222bcf16<br>
 
 To verify SHA-256, please run:<br>
 **Command Prompt**:<br>
