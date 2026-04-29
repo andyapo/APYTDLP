@@ -152,9 +152,9 @@ It's an independent project and is not affiliated with or endorsed by the yt-dlp
 
 ☝️To ensure the file has not been tampered with, verify its size and SHA-256 checksum.<br>
 **Size:**<br>
-665 236 bytes<br>
+702 259 bytes<br>
 **SHA-256**:<br>
-677ea6455b319a33005bd169fae62cb3c58027f0ad2138d86233070fe81b195f<br>
+9e4d010f29c6bc686da5a27cf656cf0ad6724c0eafda11b9fc14fd2cc903ffb3<br>
 
 To verify SHA-256, please run:<br>
 **Command Prompt**:<br>
