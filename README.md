@@ -76,7 +76,8 @@ fine-grained control and transparent configuration** rather than graphical front
 
 ### Video Converter & Batch Conversion Pre-Scan
 <p align="center">
-<img src="docs/images/convert-73.png" width="450">
+<img src="docs/images/converter1_74.png" width="450">
+<img src="docs/images/converter2_74.png" width="450">
 <img src="docs/images/batch-73.png" width="450">
 </p>
 
