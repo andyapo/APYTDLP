@@ -38,6 +38,7 @@ fine-grained control and transparent configuration** rather than graphical front
 - Flexible bitrate / quality configuration
 - Speed change support
 - Batch mode for converting all media files in entire folder structure
+- Quick Processing Mode (Merging video+audio, extracting audio or subtitles, container change, media info)
 
 ### Environment management
 - Automatic download and update of required tools
