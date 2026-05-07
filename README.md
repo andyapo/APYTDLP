@@ -77,7 +77,7 @@ fine-grained control and transparent configuration** rather than graphical front
 ### Video Converter & Batch Conversion Pre-Scan
 <p align="center">
 <img src="docs/images/converter_75.png" width="450">
-<img src="docs/images/qsmp_75.png" width="450">
+<img src="docs/images/converter_75.png" width="450">
 <img src="docs/images/batch-73.png" width="450">
 </p>
 
