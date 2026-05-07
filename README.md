@@ -76,8 +76,8 @@ fine-grained control and transparent configuration** rather than graphical front
 
 ### Video Converter & Batch Conversion Pre-Scan
 <p align="center">
-<img src="docs/images/converter1_74.png" width="450">
-<img src="docs/images/converter2_74.png" width="450">
+<img src="docs/images/converter_75.png" width="450">
+<img src="docs/images/qsmp_75.png" width="450">
 <img src="docs/images/batch-73.png" width="450">
 </p>
 
@@ -154,9 +154,9 @@ It's an independent project and is not affiliated with or endorsed by the yt-dlp
 
 ☝️To ensure the file has not been tampered with, verify its size and SHA-256 checksum.<br>
 **Size:**<br>
-702 259 bytes<br>
+712 786 bytes<br>
 **SHA-256**:<br>
-9e4d010f29c6bc686da5a27cf656cf0ad6724c0eafda11b9fc14fd2cc903ffb3<br>
+ea319780825af8e034d850271973b6da9ef1283a30b99231f54918b092c0577c<br>
 
 To verify SHA-256, please run:<br>
 **Command Prompt**:<br>
