@@ -58,37 +58,37 @@ fine-grained control and transparent configuration** rather than graphical front
 
 ### MAIN MENU and Configuration Screens
 <p align="center">
-<img src="docs/images/main-menu-72.png" width="450" alt="APYTDLP main menu">
-<img src="docs/images/yt-dlp-cfg-72.png" width="450" alt="APYTDLP main menu">
-<img src="docs/images/yt-dlp2-cfg-72.png" width="450" alt="APYTDLP main menu">
-<img src="docs/images/script-cfg-72.png" width="450" alt="APYTDLP main menu">
+<img src="docs/images/main-menu-72.png" width="400" alt="APYTDLP main menu">
+<img src="docs/images/yt-dlp-cfg-72.png" width="400" alt="APYTDLP main menu">
+<img src="docs/images/yt-dlp2-cfg-72.png" width="400" alt="APYTDLP main menu">
+<img src="docs/images/script-cfg-72.png" width="400" alt="APYTDLP main menu">
 </p>
 
 ---
 
 ### YouTube search and Download
 <p align="center">
-<img src="docs/images/ytsearch-72.png" width="450">
-<img src="docs/images/download-72.png" width="450">
+<img src="docs/images/ytsearch-72.png" width="400">
+<img src="docs/images/download-72.png" width="400">
 </p>
 
 ---
 
 ### Video Converter & Batch Conversion Pre-Scan
 <p align="center">
-<img src="docs/images/converter_75.png" width="450">
-<img src="docs/images/converter_qsmp_75.png" width="450">
-<img src="docs/images/batch-73.png" width="450">
+<img src="docs/images/converter_75.png" width="400">
+<img src="docs/images/converter_qsmp_75.png" width="400">
+<img src="docs/images/batch-73.png" width="400">
 </p>
 
 ---
 
 ### Video Converter Configuration Screens
 <p align="center">
-<img src="docs/images/convert1-73.png" width="450">
-<img src="docs/images/convert2-73.png" width="450">
-<img src="docs/images/convert3-73.png" width="450">
-<img src="docs/images/convert4-73.png" width="450">
+<img src="docs/images/convert1-73.png" width="400">
+<img src="docs/images/convert2-73.png" width="400">
+<img src="docs/images/convert3-73.png" width="400">
+<img src="docs/images/convert4-73.png" width="400">
 </p>
 
 ---
