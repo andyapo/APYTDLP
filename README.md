@@ -78,7 +78,7 @@ fine-grained control and transparent configuration** rather than graphical front
 <p align="center">
 <img src="docs/images/converter_75.png" width="400">
 <img src="docs/images/converter_qsmp_75.png" width="400">
-<img src="docs/images/batch-73.png" width="400">
+<img src="docs/images/converter_batch_75.png" width="400">
 </p>
 
 ---
