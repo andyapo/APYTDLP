@@ -158,7 +158,7 @@ It's an independent project and is not affiliated with or endorsed by the yt-dlp
 **Size:**<br>
 800 000 bytes<br>
 **SHA-256**:<br>
-ea319780825af8e034d850271973b6da9ef1283a30b99231f54918b092c0577c<br>
+fe91dc1331aff94b01c449c0e081ad24f4cfa03f5d9202497112a02ad5e23566<br>
 
 To verify SHA-256, please run:<br>
 **Command Prompt**:<br>
