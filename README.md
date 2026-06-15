@@ -79,7 +79,7 @@ fine-grained control and transparent configuration** rather than graphical front
 <p align="center">
 <img src="docs/images/converter-80.png" width="400">
 <img src="docs/images/smp-80.png" width="400">
-<img src="docs/images/converter_batch_75.png" width="400">
+<img src="docs/images/batch-80.png" width="400">
 <img src="docs/images/ffs-80.png" width="400">
 </p>
 
