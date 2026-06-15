@@ -12,10 +12,11 @@
 ![Stars](https://img.shields.io/github/stars/andyapo/APYTDLP)
 
 
-APYTDLP is a keyboard-driven Batch frontend for `yt-dlp` and `FFmpeg` used for:
+APYTDLP is a keyboard-driven Batch **media toolkit** and **frontend** for `yt-dlp` and `FFmpeg` used for:
 
 + **downloading** videos and audio
-+ **converting** and processing media
++ **converting** videos
++ **quick processing** media
 
 The project is designed for power users who prefer **keyboard workflows,
 fine-grained control and transparent configuration** rather than graphical frontends.
@@ -38,7 +39,7 @@ fine-grained control and transparent configuration** rather than graphical front
 - Flexible bitrate / quality configuration
 - Speed change support
 - Batch mode for converting all media files in entire folder structure
-- Quick Processing Mode (Merging video+audio, extracting audio or subtitles, container change, media info)
+- Quick Processing Mode (Merging video+audio, extracting audio or subtitles, container change, media info, stream filtered copy)
 
 ### Environment management
 - Automatic download and update of required tools
@@ -58,37 +59,38 @@ fine-grained control and transparent configuration** rather than graphical front
 
 ### MAIN MENU and Configuration Screens
 <p align="center">
-<img src="docs/images/main-menu-72.png" width="400" alt="APYTDLP main menu">
-<img src="docs/images/yt-dlp-cfg-72.png" width="400" alt="APYTDLP main menu">
-<img src="docs/images/yt-dlp2-cfg-72.png" width="400" alt="APYTDLP main menu">
-<img src="docs/images/script-cfg-72.png" width="400" alt="APYTDLP main menu">
+<img src="docs/images/mainmenu-80.png" width="400" alt="APYTDLP main menu">
+<img src="docs/images/configy1-80.png" width="400" alt="APYTDLP main menu">
+<img src="docs/images/configy2-80.png" width="400" alt="APYTDLP main menu">
+<img src="docs/images/configs-80.png" width="400" alt="APYTDLP main menu">
 </p>
 
 ---
 
 ### YouTube search and Download
 <p align="center">
-<img src="docs/images/ytsearch-72.png" width="400">
-<img src="docs/images/download-72.png" width="400">
+<img src="docs/images/ytsearch-80.png" width="400">
+<img src="docs/images/download-80.png" width="400">
 </p>
 
 ---
 
-### Video Converter & Batch Conversion Pre-Scan
+### Video Converter | Batch Conversion Pre-Scan | Folder & File Selector
 <p align="center">
-<img src="docs/images/converter_75.png" width="400">
-<img src="docs/images/converter_qsmp_75.png" width="400">
+<img src="docs/images/converter-80.png" width="400">
+<img src="docs/images/smp-80.png" width="400">
 <img src="docs/images/converter_batch_75.png" width="400">
+<img src="docs/images/ffs-80.png" width="400">
 </p>
 
 ---
 
 ### Video Converter Configuration Screens
 <p align="center">
-<img src="docs/images/convert1-73.png" width="400">
-<img src="docs/images/convert2-73.png" width="400">
-<img src="docs/images/convert3-73.png" width="400">
-<img src="docs/images/convert4-73.png" width="400">
+<img src="docs/images/configc1-80.png" width="400">
+<img src="docs/images/configc2-80.png" width="400">
+<img src="docs/images/configc3-80.png" width="400">
+<img src="docs/images/configc4-80.png" width="400">
 </p>
 
 ---
@@ -154,7 +156,7 @@ It's an independent project and is not affiliated with or endorsed by the yt-dlp
 
 ☝️To ensure the file has not been tampered with, verify its size and SHA-256 checksum.<br>
 **Size:**<br>
-712 786 bytes<br>
+800 000 bytes<br>
 **SHA-256**:<br>
 ea319780825af8e034d850271973b6da9ef1283a30b99231f54918b092c0577c<br>
 
