@@ -84,12 +84,12 @@ fine-grained control and transparent configuration** rather than graphical front
 
 ---
 
-### Video Converter | Batch Conversion Pre-Scan | Folder & File Selector
+### Video Converter | Edit Stream Metadata | File & Folder Selector | Media Toolkit
 <p align="center">
-<img src="docs/images/converter-80.png" width="400">
+<img src="docs/images/converter-82.png" width="400">
 <img src="docs/images/esm-81.png" width="400">
-<img src="docs/images/batch-80.png" width="400">
 <img src="docs/images/ffs-80.png" width="400">
+<img src="docs/images/media_toolkit-82.png" width="400">
 </p>
 
 ---
