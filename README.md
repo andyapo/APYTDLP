@@ -16,7 +16,7 @@ APYTDLP is a keyboard-driven Batch **media toolkit** and **frontend** for `yt-dl
 
 + **downloading** videos and audio
 + **converting** videos
-+ **quick processing** media toolkit
++ **media toolkit** with quick lossless processing
 
 The project is designed for power users who prefer **keyboard workflows,
 fine-grained control and transparent configuration** rather than graphical frontends.
@@ -39,14 +39,16 @@ fine-grained control and transparent configuration** rather than graphical front
 - Flexible bitrate / quality configuration
 - Speed change support
 - Batch mode for converting all media files in entire folder structure
-
-### Quick Processing Mode
-- Edit stream metadata
-- Stream filtered copy
-- Merging video+audio
-- Extracting audio or subtitles
-- Container change
 - Media info
+
+### Media Toolkit
+- Change container format
+- Extract audio/subtitle stream to a file
+- Add audio/subtitle stream with advanced options
+- Add multiple audio/subtitle/thumbnail streams
+- Remove streams from within container
+- Edit stream metadata
+- Change time offset of the streams
 
 ### Environment management
 - Automatic download and update of required tools
@@ -163,9 +165,9 @@ It's an independent project and is not affiliated with or endorsed by the yt-dlp
 
 ☝️To ensure the file has not been tampered with, verify its size and SHA-256 checksum.<br>
 **Size:**<br>
-875 755 bytes<br>
+903 553 bytes<br>
 **SHA-256**:<br>
-40cff6b1a17567266407280bc909e1b25b770633b269f39fc71365ebc97e2bc1<br>
+1e1414229277a68d35a32028e0fce5a239db9d93ddaf7593304a8c5f626d356a<br>
 
 To verify SHA-256, please run:<br>
 **Command Prompt**:<br>
