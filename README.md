@@ -36,6 +36,7 @@ fine-grained control and transparent configuration** rather than graphical front
 ### Converting
 - Video conversion powered by **FFmpeg**
 - Software and hardware encoder support
+- Profile and bit depth support
 - Flexible bitrate / quality configuration
 - Speed change support
 - Batch mode for converting all media files in entire folder structure
@@ -49,6 +50,7 @@ fine-grained control and transparent configuration** rather than graphical front
 - Remove streams from within container
 - Edit stream metadata
 - Change time offset of the streams
+- Create a short media clip
 
 ### Environment management
 - Automatic download and update of required tools
@@ -68,38 +70,38 @@ fine-grained control and transparent configuration** rather than graphical front
 
 ### MAIN MENU and Configuration Screens
 <p align="center">
-<img src="docs/images/mainmenu-80.png" width="400" alt="APYTDLP main menu">
-<img src="docs/images/configy1-80.png" width="400" alt="APYTDLP main menu">
-<img src="docs/images/configy2-80.png" width="400" alt="APYTDLP main menu">
-<img src="docs/images/configs-80.png" width="400" alt="APYTDLP main menu">
+<img src="docs/images/start_page-90.png" width="400" alt="APYTDLP Start page">
+<img src="docs/images/main_menu-90.png" width="400" alt="APYTDLP Main menu">
+<img src="docs/images/yt-dlp_configuration-90.png" width="400" alt="APYTDLP YT-DLP Configuration">
+<img src="docs/images/script_configuration-90.png" width="400" alt="APYTDLP Script Configuration">
 </p>
 
 ---
 
-### YouTube search and Download
+### Download and YouTube search
 <p align="center">
-<img src="docs/images/ytsearch-80.png" width="400">
-<img src="docs/images/download-80.png" width="400">
+<img src="docs/images/download_result-90.png" width="400" alt="APYTDLP Download result">
+<img src="docs/images/youtube_search-90.png" width="400" alt="APYTDLP Youtube search">
 </p>
 
 ---
 
 ### Video Converter | Edit Stream Metadata | File & Folder Selector | Media Toolkit
 <p align="center">
-<img src="docs/images/converter-82.png" width="400">
-<img src="docs/images/esm-81.png" width="400">
-<img src="docs/images/ffs-80.png" width="400">
-<img src="docs/images/media_toolkit-82.png" width="400">
+<img src="docs/images/converter-82.png" width="400" alt="APYTDLP ">
+<img src="docs/images/esm-81.png" width="400" alt="APYTDLP ">
+<img src="docs/images/ffs-80.png" width="400" alt="APYTDLP ">
+<img src="docs/images/media_toolkit-82.png" width="400" alt="APYTDLP ">
 </p>
 
 ---
 
 ### Video Converter Configuration Screens
 <p align="center">
-<img src="docs/images/configc1-80.png" width="400">
-<img src="docs/images/configc2-80.png" width="400">
-<img src="docs/images/configc3-80.png" width="400">
-<img src="docs/images/configc4-80.png" width="400">
+<img src="docs/images/configc1-80.png" width="400" alt="APYTDLP ">
+<img src="docs/images/configc2-80.png" width="400" alt="APYTDLP ">
+<img src="docs/images/configc3-80.png" width="400" alt="APYTDLP ">
+<img src="docs/images/configc4-80.png" width="400" alt="APYTDLP ">
 </p>
 
 ---
