@@ -86,22 +86,22 @@ fine-grained control and transparent configuration** rather than graphical front
 
 ---
 
-### Video Converter | Conversion result | Media Toolkit | Batch conversion Pre-scan results
+### Video Converter | Conversion result | Media Toolkit | Media Inspector
 <p align="center">
 <img src="docs/images/converter_menu-90.png" width="400" alt="APYTDLP Video Converter menu">
 <img src="docs/images/conversion_result-90.png" width="400" alt="APYTDLP Video Converter Conversion result">
 <img src="docs/images/media_toolkit-90.png" width="400" alt="APYTDLP Video Converter Media Toolkit">
-<img src="docs/images/batch_convert_prescan-90" width="400" alt="APYTDLP Video Converter Batch Conversion pre-scan results">
+<img src="docs/images/media_inspector_details-90.png" width="400" alt="APYTDLP Video Converter Media Inspector">
 </p>
 
 ---
 
 ### Video Converter Configuration Screens
 <p align="center">
-<img src="docs/images/configc1-80.png" width="400" alt="APYTDLP ">
-<img src="docs/images/configc2-80.png" width="400" alt="APYTDLP ">
-<img src="docs/images/configc3-80.png" width="400" alt="APYTDLP ">
-<img src="docs/images/configc4-80.png" width="400" alt="APYTDLP ">
+<img src="docs/images/converter_config1-90.png" width="400" alt="APYTDLP Video Converter Configuration 1">
+<img src="docs/images/converter_config2-90.png" width="400" alt="APYTDLP Video Converter Configuration 2">
+<img src="docs/images/converter_config3-90.png" width="400" alt="APYTDLP Video Converter Configuration 3">
+<img src="docs/images/converter_config4-90.png" width="400" alt="APYTDLP Video Converter Configuration 4">
 </p>
 
 ---
@@ -167,10 +167,12 @@ It's an independent project and is not affiliated with or endorsed by the yt-dlp
 ### Integrity Check
 
 ☝️To ensure the file has not been tampered with, verify its size and SHA-256 checksum.<br>
+**Version:**<br>
+9.0<br>
 **Size:**<br>
-903 553 bytes<br>
+1 030 133 bytes<br>
 **SHA-256**:<br>
-1e1414229277a68d35a32028e0fce5a239db9d93ddaf7593304a8c5f626d356a<br>
+779c9654ba5f50c2dec6627d8579e53645441f61f82da57dd00a95e4f06e78b3<br>
 
 To verify SHA-256, please run:<br>
 **Command Prompt**:<br>
