@@ -1,4 +1,4 @@
-# APYTDLP - a powerful Batch frontend for yt-dlp and FFmpeg<br>
+# APYTDLP - a Batch frontend for yt-dlp and FFmpeg<br>
 **Download and convert videos from a single interactive CLI interface.**
 
 [![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge)](https://github.com/andyapo/APYTDLP/releases/latest/download/APYTDLP.cmd)<br>
