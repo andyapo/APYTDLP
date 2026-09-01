@@ -21,7 +21,7 @@ APYTDLP is a keyboard-driven Batch **media toolkit** and **frontend** for `yt-dl
 The project is designed for power users who prefer **keyboard workflows,
 fine-grained control and transparent configuration** rather than graphical frontends.
 
-✅ The project is actively maintained.
+✅ The project is actively developed and maintained.
 
 ---
 
