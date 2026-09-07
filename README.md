@@ -168,11 +168,11 @@ It's an independent project and is not affiliated with or endorsed by the yt-dlp
 
 ☝️To ensure the file has not been tampered with, verify its size and SHA-256 checksum.<br>
 **Version:**<br>
-9.0.2<br>
+9.0.3<br>
 **Size:**<br>
-1 031 631 bytes<br>
+1 039 838 bytes<br>
 **SHA-256**:<br>
-28ee0003160925c9818a335f5a4da9eaff90ce6efb1938b95cfea1e1a8a52dbc<br>
+0743736c3cdc51a51a027f470e2a29f914de218e735b888eea889f88fb38fc73<br>
 
 To verify SHA-256, please run:<br>
 **Command Prompt**:<br>
