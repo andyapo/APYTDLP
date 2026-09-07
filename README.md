@@ -154,7 +154,7 @@ All required third-party tools in the newest versions are automatically download
 ## Security Notice
 
 APYTDLP is distributed as plain Batch source code.<br>
-It's an independent project and is not affiliated with or endorsed by the yt-dlp authors.
+It's an independent project and is not affiliated with or endorsed by the yt-dlp or FFmpeg authors.
 
 - You are encouraged to **review the script** before running.
 - Only releases from the **official repository** should be trusted.
