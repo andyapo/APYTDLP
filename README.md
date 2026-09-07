@@ -14,8 +14,8 @@
 
 APYTDLP is a keyboard-driven Batch **media toolkit** and **frontend** for `yt-dlp` and `FFmpeg` used for:
 
-+ **downloading** videos and audio
-+ **converting** videos
++ **downloading** video and audio
++ **converting** video
 + **media toolkit** with quick lossless processing
 
 The project is designed for power users who prefer **keyboard workflows,
