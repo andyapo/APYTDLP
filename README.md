@@ -36,6 +36,8 @@ fine-grained control and transparent configuration** rather than graphical front
 ### Converting
 - Video conversion powered by **FFmpeg**
 - Software and hardware encoder support
+- HEVC, H264, AV1, VP9 codec full support
+- MKV, MP4, WEBM container full support
 - Profile and bit depth support
 - Flexible bitrate / quality configuration
 - Speed change support
@@ -168,11 +170,11 @@ It's an independent project and is not affiliated with or endorsed by the yt-dlp
 
 ☝️To ensure the file has not been tampered with, verify its size and SHA-256 checksum.<br>
 **Version:**<br>
-9.0.3<br>
+9.1<br>
 **Size:**<br>
-1 039 838 bytes<br>
+1 067 790 bytes<br>
 **SHA-256**:<br>
-0743736c3cdc51a51a027f470e2a29f914de218e735b888eea889f88fb38fc73<br>
+db78ead37b8e692fa0887dd6472b9bee40df1d16da2327900d71e0090acf937e<br>
 
 To verify SHA-256, please run:<br>
 **Command Prompt**:<br>
