@@ -171,11 +171,11 @@ It's an independent project and is not affiliated with or endorsed by the yt-dlp
 
 ☝️To ensure the file has not been tampered with, verify its size and SHA-256 checksum.<br>
 **Version:**<br>
-9.1<br>
+9.1.1<br>
 **Size:**<br>
-1 067 790 bytes<br>
+1 068 233 bytes<br>
 **SHA-256**:<br>
-db78ead37b8e692fa0887dd6472b9bee40df1d16da2327900d71e0090acf937e<br>
+6a4e22ef1d82a5cade29eb25d15bf091846e99ec48fcec81084e72f12007d548<br>
 
 To verify SHA-256, please run:<br>
 **Command Prompt**:<br>
