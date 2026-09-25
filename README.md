@@ -36,7 +36,8 @@ fine-grained control and transparent configuration** rather than graphical front
 ### Converting
 - Video conversion powered by **FFmpeg**
 - Software and hardware encoder support
-- HEVC, H264, AV1, VP9 codec full support
+- HEVC, H264, AV1, VP9 video codec full support
+- AAC, MP3, OPUS audio codec full support
 - MKV, MP4, WEBM container full support
 - Profile and bit depth support
 - Flexible bitrate / quality configuration
@@ -45,7 +46,7 @@ fine-grained control and transparent configuration** rather than graphical front
 - Media info
 
 ### Media Toolkit
-- Change container format
+- Change container format to MKV, MP4, WEBM, AVI, MOV and MPEG-TS
 - Extract audio/subtitle stream to a file
 - Add audio/subtitle stream with advanced options
 - Add multiple audio/subtitle/thumbnail streams
