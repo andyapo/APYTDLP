@@ -37,7 +37,7 @@ fine-grained control and transparent configuration** rather than graphical front
 - Video conversion powered by **FFmpeg**
 - PC specific **Encoder Capability Matrix**
 - **Software** and **hardware** encoder support
-- **Chroma** Subsample 4:2:0, 4:2:2, 4:4:4 and gray support
+- **Chroma** Subsample **4:2:0**, **4:2:2**, **4:4:4** and **gray** support
 - **HEVC**, **H264**, **AV1**, **VP9** video codec full support
 - **AAC**, **MP3**, **OPUS** audio codec full support
 - **MKV**, **MP4**, **WEBM** container full support
