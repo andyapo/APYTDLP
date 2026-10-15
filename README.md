@@ -91,7 +91,7 @@ fine-grained control and transparent configuration** rather than graphical front
 
 ---
 
-### Video Converter | Conversion result | Media Toolkit | Media Inspector
+### Video Converter | Encoder Capability Matrix | Media Toolkit | Media Inspector
 <p align="center">
 <img src="docs/images/converter_main-92.png" width="400" alt="APYTDLP Video Converter menu">
 <img src="docs/images/converter-matrix-92.png" width="400" alt="APYTDLP Video Converter Encoder Compatibility Matrix">
