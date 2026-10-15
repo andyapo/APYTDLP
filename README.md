@@ -35,23 +35,25 @@ fine-grained control and transparent configuration** rather than graphical front
 
 ### Converting
 - Video conversion powered by **FFmpeg**
-- Software and hardware encoder support
-- HEVC, H264, AV1, VP9 video codec full support
-- AAC, MP3, OPUS audio codec full support
-- MKV, MP4, WEBM container full support
-- Profile and bit depth support
-- Flexible bitrate / quality configuration
-- Speed change support
-- Batch mode for converting all media files in entire folder structure
+- PC specific **Encoder Capability Matrix**
+- **Software** and **hardware** encoder support
+- **Chroma** Subsample 4:2:0, 4:2:2, 4:4:4 and gray support
+- **HEVC**, **H264**, **AV1**, **VP9** video codec full support
+- **AAC**, **MP3**, **OPUS** audio codec full support
+- **MKV**, **MP4**, **WEBM** container full support
+- **Profile** and **bit depth** support
+- Flexible **bitrate** / **quality** configuration
+- **Speed change** support
+- **Batch mode** for converting all media files in entire folder structure
 - Media info
 
 ### Media Toolkit
-- Change container format to MKV, MP4, WEBM, AVI, MOV and MPEG-TS
-- Extract audio/subtitle stream to a file
-- Add audio/subtitle stream with advanced options
+- **Change container** format to MKV, MP4, WEBM, AVI, MOV and MPEG-TS
+- **Extract** audio/subtitle stream to a file
+- **Add** audio/subtitle stream with advanced options
 - Add multiple audio/subtitle/thumbnail streams
-- Remove streams from within container
-- Edit stream metadata
+- **Remove** streams from within container
+- **Edit** stream metadata
 - Change time offset of the streams
 - Create a short media clip
 
@@ -73,7 +75,7 @@ fine-grained control and transparent configuration** rather than graphical front
 
 ### MAIN MENU and Configuration Screens
 <p align="center">
-<img src="docs/images/start_page-90.png" width="400" alt="APYTDLP Start page">
+<img src="docs/images/titlepage-92.png" width="400" alt="APYTDLP Title page">
 <img src="docs/images/main_menu-90.png" width="400" alt="APYTDLP Main menu">
 <img src="docs/images/yt-dlp_configuration-90.png" width="400" alt="APYTDLP YT-DLP Configuration">
 <img src="docs/images/script_configuration-90.png" width="400" alt="APYTDLP Script Configuration">
@@ -91,9 +93,9 @@ fine-grained control and transparent configuration** rather than graphical front
 
 ### Video Converter | Conversion result | Media Toolkit | Media Inspector
 <p align="center">
-<img src="docs/images/converter_menu-90.png" width="400" alt="APYTDLP Video Converter menu">
-<img src="docs/images/conversion_result-90.png" width="400" alt="APYTDLP Video Converter Conversion result">
-<img src="docs/images/media_toolkit-90.png" width="400" alt="APYTDLP Video Converter Media Toolkit">
+<img src="docs/images/converter_main-92.png" width="400" alt="APYTDLP Video Converter menu">
+<img src="docs/images/converter-matrix-92.png" width="400" alt="APYTDLP Video Converter Encoder Compatibility Matrix">
+<img src="docs/images/converter_toolkit-92.png" width="400" alt="APYTDLP Video Converter Media Toolkit">
 <img src="docs/images/media_inspector_details-90.png" width="400" alt="APYTDLP Video Converter Media Inspector">
 </p>
 
@@ -101,10 +103,10 @@ fine-grained control and transparent configuration** rather than graphical front
 
 ### Video Converter Configuration Screens
 <p align="center">
-<img src="docs/images/converter_config1-90.png" width="400" alt="APYTDLP Video Converter Configuration 1">
-<img src="docs/images/converter_config2-90.png" width="400" alt="APYTDLP Video Converter Configuration 2">
-<img src="docs/images/converter_config3-90.png" width="400" alt="APYTDLP Video Converter Configuration 3">
-<img src="docs/images/converter_config4-90.png" width="400" alt="APYTDLP Video Converter Configuration 4">
+<img src="docs/images/converter_cfg1-92.png" width="400" alt="APYTDLP Video Converter Configuration 1">
+<img src="docs/images/converter_cfg2-92.png" width="400" alt="APYTDLP Video Converter Configuration 2">
+<img src="docs/images/converter_cfg3-92.png" width="400" alt="APYTDLP Video Converter Configuration 3">
+<img src="docs/images/converter_cfg4-92.png" width="400" alt="APYTDLP Video Converter Configuration 4">
 </p>
 
 ---
@@ -171,11 +173,11 @@ It's an independent project and is not affiliated with or endorsed by the yt-dlp
 
 ☝️To ensure the file has not been tampered with, verify its size and SHA-256 checksum.<br>
 **Version:**<br>
-9.1.1<br>
+9.2<br>
 **Size:**<br>
-1 068 233 bytes<br>
+1 122 965 bytes<br>
 **SHA-256**:<br>
-6a4e22ef1d82a5cade29eb25d15bf091846e99ec48fcec81084e72f12007d548<br>
+1a88e56a4bc5bd96c62a1bfe28e8b7f8a1615ef6bb13667ea36285628b5878df<br>
 
 To verify SHA-256, please run:<br>
 **Command Prompt**:<br>
