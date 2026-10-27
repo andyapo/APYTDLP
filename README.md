@@ -47,7 +47,7 @@ fine-grained control and transparent configuration** rather than graphical front
 - **Batch mode** for converting all media files in entire folder structure
 
 ### Media Inspector 
-- **Single Mode** with detailed info about Media file
+- **Single mode** with detailed info about Media file
 - **Batch mode** with filtered batch (folder) mode search capability
 
 ### Media Toolkit
