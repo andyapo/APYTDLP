@@ -91,12 +91,12 @@ fine-grained control and transparent configuration** rather than graphical front
 
 ---
 
-### Video Converter | Encoder Capability Matrix | Media Toolkit | Media Inspector
+### Video Converter | Encoder Capability Matrix | Media Toolkit | Batch Media Inspector
 <p align="center">
 <img src="docs/images/converter_main-92.png" width="400" alt="APYTDLP Video Converter menu">
 <img src="docs/images/converter-matrix-92.png" width="400" alt="APYTDLP Video Converter Encoder Compatibility Matrix">
 <img src="docs/images/converter_toolkit-92.png" width="400" alt="APYTDLP Video Converter Media Toolkit">
-<img src="docs/images/media_inspector_details-90.png" width="400" alt="APYTDLP Video Converter Media Inspector">
+<img src="docs/images/batch_media_inspect-93.png" width="400" alt="APYTDLP Video Converter Media Inspector">
 </p>
 
 ---
@@ -105,7 +105,7 @@ fine-grained control and transparent configuration** rather than graphical front
 <p align="center">
 <img src="docs/images/converter_cfg1-92.png" width="400" alt="APYTDLP Video Converter Configuration 1">
 <img src="docs/images/converter_cfg2-92.png" width="400" alt="APYTDLP Video Converter Configuration 2">
-<img src="docs/images/converter_cfg3-92.png" width="400" alt="APYTDLP Video Converter Configuration 3">
+<img src="docs/images/converter_cfg3-93.png" width="400" alt="APYTDLP Video Converter Configuration 3">
 <img src="docs/images/converter_cfg4-92.png" width="400" alt="APYTDLP Video Converter Configuration 4">
 </p>
 
