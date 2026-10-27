@@ -45,7 +45,10 @@ fine-grained control and transparent configuration** rather than graphical front
 - Flexible **bitrate** / **quality** configuration
 - **Speed change** support
 - **Batch mode** for converting all media files in entire folder structure
-- **Media Inspector** with filtered batch (folder) mode search capability
+
+### Media Inspector 
+- **Single Mode** with detailed info about Media file
+- **Batch mode** with filtered batch (folder) mode search capability
 
 ### Media Toolkit
 - **Change container** format to MKV, MP4, WEBM, AVI, MOV and MPEG-TS
