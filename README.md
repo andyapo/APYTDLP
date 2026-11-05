@@ -48,7 +48,7 @@ fine-grained control and transparent configuration** rather than graphical front
 
 ### Media Inspector 
 - **Single mode** with detailed info about Media file
-- **Batch mode** with filtered batch (folder) mode search capability
+- **Batch mode** with filtered batch (folder) mode search capability and detailed log creating
 
 ### Media Toolkit
 - **Change container** format to MKV, MP4, WEBM, AVI, MOV and MPEG-TS
@@ -57,8 +57,8 @@ fine-grained control and transparent configuration** rather than graphical front
 - Add multiple audio/subtitle/thumbnail streams
 - **Remove** streams from within container
 - **Edit** stream metadata
-- Change time offset of the streams
-- Create a short media clip
+- **Change Time offset** of the streams
+- **Create a short** media clip
 
 ### Environment management
 - Automatic download and update of required tools
@@ -96,10 +96,10 @@ fine-grained control and transparent configuration** rather than graphical front
 
 ### Video Converter | Encoder Capability Matrix | Media Toolkit | Batch Media Inspector
 <p align="center">
-<img src="docs/images/converter_main-92.png" width="400" alt="APYTDLP Video Converter menu">
+<img src="docs/images/converter_main-94.png" width="400" alt="APYTDLP Video Converter menu">
 <img src="docs/images/converter-matrix-92.png" width="400" alt="APYTDLP Video Converter Encoder Compatibility Matrix">
 <img src="docs/images/converter_toolkit-92.png" width="400" alt="APYTDLP Video Converter Media Toolkit">
-<img src="docs/images/batch_media_inspect-93.png" width="400" alt="APYTDLP Video Converter Media Inspector">
+<img src="docs/images/batch_media_inspect-94.png" width="400" alt="APYTDLP Video Converter Media Inspector">
 </p>
 
 ---
@@ -176,11 +176,11 @@ It's an independent project and is not affiliated with or endorsed by the yt-dlp
 
 ☝️To ensure the file has not been tampered with, verify its size and SHA-256 checksum.<br>
 **Version:**<br>
-9.3<br>
+9.4<br>
 **Size:**<br>
-1 140 574 bytes<br>
+1 168 267 bytes<br>
 **SHA-256**:<br>
-878080fe032f83c21ef967f0353b98a5cbe9d3d86ed734299445d3f17621da4c<br>
+f13451213e781fc72d8ce2dda3d1bcb175bb6aec5d67db7a22761b9668cfda04<br>
 
 To verify SHA-256, please run:<br>
 **Command Prompt**:<br>
