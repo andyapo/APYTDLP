@@ -60,6 +60,7 @@ fine-grained control and transparent configuration** rather than graphical front
 - **Edit** stream metadata
 - **Change Time offset** of the streams
 - **Create a short** media clip
+- **Batch Extract** audio/subtitle streams from a multiple media files
 
 ### Environment management
 - Automatic download and update of required tools
@@ -100,7 +101,7 @@ fine-grained control and transparent configuration** rather than graphical front
 <img src="docs/images/converter_main-94.png" width="400" alt="APYTDLP Video Converter menu">
 <img src="docs/images/converter-matrix-92.png" width="400" alt="APYTDLP Video Converter Encoder Compatibility Matrix">
 <img src="docs/images/converter_toolkit-92.png" width="400" alt="APYTDLP Video Converter Media Toolkit">
-<img src="docs/images/batch_media_inspect-94.png" width="400" alt="APYTDLP Video Converter Media Inspector">
+<img src="docs/images/batch_media_inspector-95.png" width="400" alt="APYTDLP Video Converter Media Inspector">
 </p>
 
 ---
