@@ -100,7 +100,7 @@ fine-grained control and transparent configuration** rather than graphical front
 <p align="center">
 <img src="docs/images/converter_main-94.png" width="400" alt="APYTDLP Video Converter menu">
 <img src="docs/images/converter-matrix-92.png" width="400" alt="APYTDLP Video Converter Encoder Compatibility Matrix">
-<img src="docs/images/converter_toolkit-92.png" width="400" alt="APYTDLP Video Converter Media Toolkit">
+<img src="docs/images/media_toolkit-95.png" width="400" alt="APYTDLP Video Converter Media Toolkit">
 <img src="docs/images/batch_media_inspector-95.png" width="400" alt="APYTDLP Video Converter Media Inspector">
 </p>
 
@@ -178,11 +178,11 @@ It's an independent project and is not affiliated with or endorsed by the yt-dlp
 
 ☝️To ensure the file has not been tampered with, verify its size and SHA-256 checksum.<br>
 **Version:**<br>
-9.4<br>
+9.5<br>
 **Size:**<br>
-1 168 267 bytes<br>
+1 190 056 bytes<br>
 **SHA-256**:<br>
-f13451213e781fc72d8ce2dda3d1bcb175bb6aec5d67db7a22761b9668cfda04<br>
+1013354524144833cec6e4668c5b323fcdfca768d87de388b1268ea1d20651ce<br>
 
 To verify SHA-256, please run:<br>
 **Command Prompt**:<br>
